@@ -1,9 +1,9 @@
 //
 //  WindowController.swift
-//  Trello
+//  Jira
 //
-//  Created by John W. Long on 12/12/14.
-//  Copyright (c) 2014 John W. Long. All rights reserved.
+//  Created by John W. Long on 11/5/17.
+//  Copyright (c) 2017 John W. Long. All rights reserved.
 //
 
 import Cocoa

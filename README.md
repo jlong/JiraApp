@@ -1,13 +1,13 @@
-# TrelloApp
+# JiraApp
 
-An unofficial wrapper application for Trello.com written in Swift. This is almost a "Hello World" for a site specific browser.
+An unofficial wrapper application for JIRA written in Swift. This is almost a "Hello World" for a site specific browser.
 
-![screenshot](https://github.com/jlong/TrelloApp/raw/master/Assets/screenshot.png)
+![screenshot](https://github.com/jlong/JiraApp/raw/master/Assets/screenshot.png)
 
 
 ## License
 
-    Copyright (c) 2014 John W. Long.
+    Copyright (c) 2017 John W. Long.
 
     Permission is hereby granted, free of charge, to any person obtaining
     a copy of this software and associated documentation files (the

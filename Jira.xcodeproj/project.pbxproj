@@ -11,17 +11,17 @@
 		B60FA2481A3771CA00B48297 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B60FA2471A3771CA00B48297 /* ViewController.swift */; };
 		B60FA24A1A3771CA00B48297 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B60FA2491A3771CA00B48297 /* Images.xcassets */; };
 		B60FA24D1A3771CA00B48297 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B60FA24B1A3771CA00B48297 /* Main.storyboard */; };
-		B60FA2591A3771CA00B48297 /* TrelloTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B60FA2581A3771CA00B48297 /* TrelloTests.swift */; };
-		B699D6E81A37BCF5005C7E63 /* trello-32@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B699D6DE1A37BCF5005C7E63 /* trello-32@2x.png */; };
-		B699D6E91A37BCF5005C7E63 /* trello-16.png in Resources */ = {isa = PBXBuildFile; fileRef = B699D6DF1A37BCF5005C7E63 /* trello-16.png */; };
-		B699D6EA1A37BCF5005C7E63 /* trello-512.png in Resources */ = {isa = PBXBuildFile; fileRef = B699D6E01A37BCF5005C7E63 /* trello-512.png */; };
-		B699D6EB1A37BCF5005C7E63 /* trello-128.png in Resources */ = {isa = PBXBuildFile; fileRef = B699D6E11A37BCF5005C7E63 /* trello-128.png */; };
-		B699D6EC1A37BCF5005C7E63 /* trello-256.png in Resources */ = {isa = PBXBuildFile; fileRef = B699D6E21A37BCF5005C7E63 /* trello-256.png */; };
-		B699D6ED1A37BCF5005C7E63 /* trello-512@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B699D6E31A37BCF5005C7E63 /* trello-512@2x.png */; };
-		B699D6EE1A37BCF5005C7E63 /* trello-256@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B699D6E41A37BCF5005C7E63 /* trello-256@2x.png */; };
-		B699D6EF1A37BCF5005C7E63 /* trello-128@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B699D6E51A37BCF5005C7E63 /* trello-128@2x.png */; };
-		B699D6F01A37BCF5005C7E63 /* trello-32.png in Resources */ = {isa = PBXBuildFile; fileRef = B699D6E61A37BCF5005C7E63 /* trello-32.png */; };
-		B699D6F11A37BCF5005C7E63 /* trello-16@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B699D6E71A37BCF5005C7E63 /* trello-16@2x.png */; };
+		B60FA2591A3771CA00B48297 /* JiraTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B60FA2581A3771CA00B48297 /* JiraTests.swift */; };
+		B699D6E81A37BCF5005C7E63 /* jira-32@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B699D6DE1A37BCF5005C7E63 /* jira-32@2x.png */; };
+		B699D6E91A37BCF5005C7E63 /* jira-16.png in Resources */ = {isa = PBXBuildFile; fileRef = B699D6DF1A37BCF5005C7E63 /* jira-16.png */; };
+		B699D6EA1A37BCF5005C7E63 /* jira-512.png in Resources */ = {isa = PBXBuildFile; fileRef = B699D6E01A37BCF5005C7E63 /* jira-512.png */; };
+		B699D6EB1A37BCF5005C7E63 /* jira-128.png in Resources */ = {isa = PBXBuildFile; fileRef = B699D6E11A37BCF5005C7E63 /* jira-128.png */; };
+		B699D6EC1A37BCF5005C7E63 /* jira-256.png in Resources */ = {isa = PBXBuildFile; fileRef = B699D6E21A37BCF5005C7E63 /* jira-256.png */; };
+		B699D6ED1A37BCF5005C7E63 /* jira-512@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B699D6E31A37BCF5005C7E63 /* jira-512@2x.png */; };
+		B699D6EE1A37BCF5005C7E63 /* jira-256@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B699D6E41A37BCF5005C7E63 /* jira-256@2x.png */; };
+		B699D6EF1A37BCF5005C7E63 /* jira-128@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B699D6E51A37BCF5005C7E63 /* jira-128@2x.png */; };
+		B699D6F01A37BCF5005C7E63 /* jira-32.png in Resources */ = {isa = PBXBuildFile; fileRef = B699D6E61A37BCF5005C7E63 /* jira-32.png */; };
+		B699D6F11A37BCF5005C7E63 /* jira-16@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B699D6E71A37BCF5005C7E63 /* jira-16@2x.png */; };
 		B6DDEA921A3B68AD0031945D /* WindowController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6DDEA911A3B68AD0031945D /* WindowController.swift */; };
 /* End PBXBuildFile section */
 
@@ -31,30 +31,30 @@
 			containerPortal = B60FA2381A3771CA00B48297 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = B60FA23F1A3771CA00B48297;
-			remoteInfo = Trello;
+			remoteInfo = Jira;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		B60FA2401A3771CA00B48297 /* Trello.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Trello.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B60FA2401A3771CA00B48297 /* Jira.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Jira.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B60FA2441A3771CA00B48297 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B60FA2451A3771CA00B48297 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B60FA2471A3771CA00B48297 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		B60FA2491A3771CA00B48297 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		B60FA24C1A3771CA00B48297 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		B60FA2521A3771CA00B48297 /* TrelloTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TrelloTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B60FA2521A3771CA00B48297 /* JiraTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JiraTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B60FA2571A3771CA00B48297 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B60FA2581A3771CA00B48297 /* TrelloTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrelloTests.swift; sourceTree = "<group>"; };
-		B699D6DE1A37BCF5005C7E63 /* trello-32@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "trello-32@2x.png"; sourceTree = "<group>"; };
-		B699D6DF1A37BCF5005C7E63 /* trello-16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "trello-16.png"; sourceTree = "<group>"; };
-		B699D6E01A37BCF5005C7E63 /* trello-512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "trello-512.png"; sourceTree = "<group>"; };
-		B699D6E11A37BCF5005C7E63 /* trello-128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "trello-128.png"; sourceTree = "<group>"; };
-		B699D6E21A37BCF5005C7E63 /* trello-256.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "trello-256.png"; sourceTree = "<group>"; };
-		B699D6E31A37BCF5005C7E63 /* trello-512@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "trello-512@2x.png"; sourceTree = "<group>"; };
-		B699D6E41A37BCF5005C7E63 /* trello-256@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "trello-256@2x.png"; sourceTree = "<group>"; };
-		B699D6E51A37BCF5005C7E63 /* trello-128@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "trello-128@2x.png"; sourceTree = "<group>"; };
-		B699D6E61A37BCF5005C7E63 /* trello-32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "trello-32.png"; sourceTree = "<group>"; };
-		B699D6E71A37BCF5005C7E63 /* trello-16@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "trello-16@2x.png"; sourceTree = "<group>"; };
+		B60FA2581A3771CA00B48297 /* JiraTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JiraTests.swift; sourceTree = "<group>"; };
+		B699D6DE1A37BCF5005C7E63 /* jira-32@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "jira-32@2x.png"; sourceTree = "<group>"; };
+		B699D6DF1A37BCF5005C7E63 /* jira-16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "jira-16.png"; sourceTree = "<group>"; };
+		B699D6E01A37BCF5005C7E63 /* jira-512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "jira-512.png"; sourceTree = "<group>"; };
+		B699D6E11A37BCF5005C7E63 /* jira-128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "jira-128.png"; sourceTree = "<group>"; };
+		B699D6E21A37BCF5005C7E63 /* jira-256.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "jira-256.png"; sourceTree = "<group>"; };
+		B699D6E31A37BCF5005C7E63 /* jira-512@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "jira-512@2x.png"; sourceTree = "<group>"; };
+		B699D6E41A37BCF5005C7E63 /* jira-256@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "jira-256@2x.png"; sourceTree = "<group>"; };
+		B699D6E51A37BCF5005C7E63 /* jira-128@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "jira-128@2x.png"; sourceTree = "<group>"; };
+		B699D6E61A37BCF5005C7E63 /* jira-32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "jira-32.png"; sourceTree = "<group>"; };
+		B699D6E71A37BCF5005C7E63 /* jira-16@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "jira-16@2x.png"; sourceTree = "<group>"; };
 		B6DDEA911A3B68AD0031945D /* WindowController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WindowController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -79,8 +79,8 @@
 		B60FA2371A3771CA00B48297 = {
 			isa = PBXGroup;
 			children = (
-				B60FA2421A3771CA00B48297 /* Trello */,
-				B60FA2551A3771CA00B48297 /* TrelloTests */,
+				B60FA2421A3771CA00B48297 /* Jira */,
+				B60FA2551A3771CA00B48297 /* JiraTests */,
 				B60FA2411A3771CA00B48297 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -88,13 +88,13 @@
 		B60FA2411A3771CA00B48297 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B60FA2401A3771CA00B48297 /* Trello.app */,
-				B60FA2521A3771CA00B48297 /* TrelloTests.xctest */,
+				B60FA2401A3771CA00B48297 /* Jira.app */,
+				B60FA2521A3771CA00B48297 /* JiraTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		B60FA2421A3771CA00B48297 /* Trello */ = {
+		B60FA2421A3771CA00B48297 /* Jira */ = {
 			isa = PBXGroup;
 			children = (
 				B60FA2451A3771CA00B48297 /* AppDelegate.swift */,
@@ -104,34 +104,34 @@
 				B60FA24B1A3771CA00B48297 /* Main.storyboard */,
 				B60FA2431A3771CA00B48297 /* Supporting Files */,
 			);
-			path = Trello;
+			path = Jira;
 			sourceTree = "<group>";
 		};
 		B60FA2431A3771CA00B48297 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				B699D6DF1A37BCF5005C7E63 /* trello-16.png */,
-				B699D6E71A37BCF5005C7E63 /* trello-16@2x.png */,
-				B699D6E61A37BCF5005C7E63 /* trello-32.png */,
-				B699D6DE1A37BCF5005C7E63 /* trello-32@2x.png */,
-				B699D6E11A37BCF5005C7E63 /* trello-128.png */,
-				B699D6E51A37BCF5005C7E63 /* trello-128@2x.png */,
-				B699D6E21A37BCF5005C7E63 /* trello-256.png */,
-				B699D6E41A37BCF5005C7E63 /* trello-256@2x.png */,
-				B699D6E01A37BCF5005C7E63 /* trello-512.png */,
-				B699D6E31A37BCF5005C7E63 /* trello-512@2x.png */,
+				B699D6DF1A37BCF5005C7E63 /* jira-16.png */,
+				B699D6E71A37BCF5005C7E63 /* jira-16@2x.png */,
+				B699D6E61A37BCF5005C7E63 /* jira-32.png */,
+				B699D6DE1A37BCF5005C7E63 /* jira-32@2x.png */,
+				B699D6E11A37BCF5005C7E63 /* jira-128.png */,
+				B699D6E51A37BCF5005C7E63 /* jira-128@2x.png */,
+				B699D6E21A37BCF5005C7E63 /* jira-256.png */,
+				B699D6E41A37BCF5005C7E63 /* jira-256@2x.png */,
+				B699D6E01A37BCF5005C7E63 /* jira-512.png */,
+				B699D6E31A37BCF5005C7E63 /* jira-512@2x.png */,
 				B60FA2441A3771CA00B48297 /* Info.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		B60FA2551A3771CA00B48297 /* TrelloTests */ = {
+		B60FA2551A3771CA00B48297 /* JiraTests */ = {
 			isa = PBXGroup;
 			children = (
-				B60FA2581A3771CA00B48297 /* TrelloTests.swift */,
+				B60FA2581A3771CA00B48297 /* JiraTests.swift */,
 				B60FA2561A3771CA00B48297 /* Supporting Files */,
 			);
-			path = TrelloTests;
+			path = JiraTests;
 			sourceTree = "<group>";
 		};
 		B60FA2561A3771CA00B48297 /* Supporting Files */ = {
@@ -145,9 +145,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B60FA23F1A3771CA00B48297 /* Trello */ = {
+		B60FA23F1A3771CA00B48297 /* Jira */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B60FA25C1A3771CA00B48297 /* Build configuration list for PBXNativeTarget "Trello" */;
+			buildConfigurationList = B60FA25C1A3771CA00B48297 /* Build configuration list for PBXNativeTarget "Jira" */;
 			buildPhases = (
 				B60FA23C1A3771CA00B48297 /* Sources */,
 				B60FA23D1A3771CA00B48297 /* Frameworks */,
@@ -157,14 +157,14 @@
 			);
 			dependencies = (
 			);
-			name = Trello;
-			productName = Trello;
-			productReference = B60FA2401A3771CA00B48297 /* Trello.app */;
+			name = Jira;
+			productName = Jira;
+			productReference = B60FA2401A3771CA00B48297 /* Jira.app */;
 			productType = "com.apple.product-type.application";
 		};
-		B60FA2511A3771CA00B48297 /* TrelloTests */ = {
+		B60FA2511A3771CA00B48297 /* JiraTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B60FA25F1A3771CA00B48297 /* Build configuration list for PBXNativeTarget "TrelloTests" */;
+			buildConfigurationList = B60FA25F1A3771CA00B48297 /* Build configuration list for PBXNativeTarget "JiraTests" */;
 			buildPhases = (
 				B60FA24E1A3771CA00B48297 /* Sources */,
 				B60FA24F1A3771CA00B48297 /* Frameworks */,
@@ -175,9 +175,9 @@
 			dependencies = (
 				B60FA2541A3771CA00B48297 /* PBXTargetDependency */,
 			);
-			name = TrelloTests;
-			productName = TrelloTests;
-			productReference = B60FA2521A3771CA00B48297 /* TrelloTests.xctest */;
+			name = JiraTests;
+			productName = JiraTests;
+			productReference = B60FA2521A3771CA00B48297 /* JiraTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -198,7 +198,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B60FA23B1A3771CA00B48297 /* Build configuration list for PBXProject "Trello" */;
+			buildConfigurationList = B60FA23B1A3771CA00B48297 /* Build configuration list for PBXProject "Jira" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -211,8 +211,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B60FA23F1A3771CA00B48297 /* Trello */,
-				B60FA2511A3771CA00B48297 /* TrelloTests */,
+				B60FA23F1A3771CA00B48297 /* Jira */,
+				B60FA2511A3771CA00B48297 /* JiraTests */,
 			);
 		};
 /* End PBXProject section */
@@ -222,18 +222,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B699D6EC1A37BCF5005C7E63 /* trello-256.png in Resources */,
+				B699D6EC1A37BCF5005C7E63 /* jira-256.png in Resources */,
 				B60FA24A1A3771CA00B48297 /* Images.xcassets in Resources */,
-				B699D6E81A37BCF5005C7E63 /* trello-32@2x.png in Resources */,
-				B699D6E91A37BCF5005C7E63 /* trello-16.png in Resources */,
+				B699D6E81A37BCF5005C7E63 /* jira-32@2x.png in Resources */,
+				B699D6E91A37BCF5005C7E63 /* jira-16.png in Resources */,
 				B60FA24D1A3771CA00B48297 /* Main.storyboard in Resources */,
-				B699D6ED1A37BCF5005C7E63 /* trello-512@2x.png in Resources */,
-				B699D6EF1A37BCF5005C7E63 /* trello-128@2x.png in Resources */,
-				B699D6EA1A37BCF5005C7E63 /* trello-512.png in Resources */,
-				B699D6F01A37BCF5005C7E63 /* trello-32.png in Resources */,
-				B699D6EE1A37BCF5005C7E63 /* trello-256@2x.png in Resources */,
-				B699D6EB1A37BCF5005C7E63 /* trello-128.png in Resources */,
-				B699D6F11A37BCF5005C7E63 /* trello-16@2x.png in Resources */,
+				B699D6ED1A37BCF5005C7E63 /* jira-512@2x.png in Resources */,
+				B699D6EF1A37BCF5005C7E63 /* jira-128@2x.png in Resources */,
+				B699D6EA1A37BCF5005C7E63 /* jira-512.png in Resources */,
+				B699D6F01A37BCF5005C7E63 /* jira-32.png in Resources */,
+				B699D6EE1A37BCF5005C7E63 /* jira-256@2x.png in Resources */,
+				B699D6EB1A37BCF5005C7E63 /* jira-128.png in Resources */,
+				B699D6F11A37BCF5005C7E63 /* jira-16@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,7 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B60FA2591A3771CA00B48297 /* TrelloTests.swift in Sources */,
+				B60FA2591A3771CA00B48297 /* JiraTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,7 +270,7 @@
 /* Begin PBXTargetDependency section */
 		B60FA2541A3771CA00B48297 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = B60FA23F1A3771CA00B48297 /* Trello */;
+			target = B60FA23F1A3771CA00B48297 /* Jira */;
 			targetProxy = B60FA2531A3771CA00B48297 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -369,7 +369,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				COMBINE_HIDPI_IMAGES = YES;
-				INFOPLIST_FILE = Trello/Info.plist;
+				INFOPLIST_FILE = Jira/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -380,7 +380,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				COMBINE_HIDPI_IMAGES = YES;
-				INFOPLIST_FILE = Trello/Info.plist;
+				INFOPLIST_FILE = Jira/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -399,10 +399,10 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = TrelloTests/Info.plist;
+				INFOPLIST_FILE = JiraTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Trello.app/Contents/MacOS/Trello";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Jira.app/Contents/MacOS/Jira";
 			};
 			name = Debug;
 		};
@@ -415,17 +415,17 @@
 					"$(DEVELOPER_FRAMEWORKS_DIR)",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = TrelloTests/Info.plist;
+				INFOPLIST_FILE = JiraTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Trello.app/Contents/MacOS/Trello";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Jira.app/Contents/MacOS/Jira";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B60FA23B1A3771CA00B48297 /* Build configuration list for PBXProject "Trello" */ = {
+		B60FA23B1A3771CA00B48297 /* Build configuration list for PBXProject "Jira" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B60FA25A1A3771CA00B48297 /* Debug */,
@@ -434,7 +434,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B60FA25C1A3771CA00B48297 /* Build configuration list for PBXNativeTarget "Trello" */ = {
+		B60FA25C1A3771CA00B48297 /* Build configuration list for PBXNativeTarget "Jira" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B60FA25D1A3771CA00B48297 /* Debug */,
@@ -443,7 +443,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B60FA25F1A3771CA00B48297 /* Build configuration list for PBXNativeTarget "TrelloTests" */ = {
+		B60FA25F1A3771CA00B48297 /* Build configuration list for PBXNativeTarget "JiraTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B60FA2601A3771CA00B48297 /* Debug */,

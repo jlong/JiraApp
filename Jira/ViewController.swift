@@ -1,9 +1,9 @@
 //
 //  ViewController.swift
-//  Trello
+//  Jira
 //
-//  Created by John W. Long on 12/9/14.
-//  Copyright (c) 2014 John W. Long. All rights reserved.
+//  Created by John W. Long on 11/5/17.
+//  Copyright (c) 2017 John W. Long. All rights reserved.
 //
 
 import Cocoa
@@ -48,7 +48,7 @@ class ViewController: NSViewController {
     }
     
     @IBAction func goHome(AnyObject) {
-        loadUrl("https://trello.com")
+        loadUrl("https://jira.com")
     }
     
     @IBAction func goBack(AnyObject) {
