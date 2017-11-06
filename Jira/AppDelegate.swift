@@ -13,28 +13,28 @@ class AppDelegate: NSObject, NSApplicationDelegate {
     
     var window: NSWindow!
     
-    func applicationWillFinishLaunching(notification: NSNotification?) {
-        let manager:NSAppleEventManager = NSAppleEventManager.sharedAppleEventManager()
+    func applicationWillFinishLaunching(_ notification: Notification) {
+        let manager:NSAppleEventManager = NSAppleEventManager.shared()
         manager.setEventHandler(self, andSelector: "applicationHandleUrl:withReplyEvent:", forEventClass: AEEventClass(kInternetEventClass), andEventID: AEEventID(kAEGetURL))
     }
     
-    func applicationDidBecomeActive(notification: NSNotification) {
-        let app = notification.object as NSApplication
+    func applicationDidBecomeActive(_ notification: Notification) {
+        let app = notification.object as! NSApplication
         window = app.mainWindow
     }
     
-    func applicationHandleUrl(event: NSAppleEventDescriptor, withReplyEvent replyEvent:NSAppleEventDescriptor) {
-        let url = event.paramDescriptorForKeyword(AEKeyword(keyDirectObject))?.stringValue
+    func applicationHandleUrl(_ event: NSAppleEventDescriptor, withReplyEvent replyEvent:NSAppleEventDescriptor) {
+        let url = event.paramDescriptor(forKeyword: AEKeyword(keyDirectObject))?.stringValue
         
         if (window != nil) {
-            let vc = window.contentViewController as ViewController
+            let vc = window.contentViewController as! ViewController
             vc.loadUrl(url!)
         } else {
-            println("nil window!")
+            print("nil window!")
         }
     }
     
-    func applicationShouldTerminateAfterLastWindowClosed(sender: NSApplication) -> Bool {
+    func applicationShouldTerminateAfterLastWindowClosed(_ sender: NSApplication) -> Bool {
         return true
     }
 

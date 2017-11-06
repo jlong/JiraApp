@@ -14,7 +14,7 @@ class WindowController: NSWindowController {
     @IBOutlet weak var addressBar: NSTextField!
     
     override func windowDidLoad() {
-        window?.titleVisibility = .Hidden
+        window?.titleVisibility = .hidden
     }
     
 }
